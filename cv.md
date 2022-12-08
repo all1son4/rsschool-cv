@@ -59,7 +59,7 @@ function findShort(s){
 <br/>
 An application that allows the user to receive a list of films, save them and have a personal account by registering.
 <br/>
-Technology used: JavaScript, API, React, JSX, Figma, Node.js (express.js), MongoDB
+Technology used: JavaScript, API, React, JSX, Figma, Node.js (express.js), MongoDB.
 <br/>
 [Link on front-end part og project](https://github.com/all1son4/movies-explorer-frontend)
 <br/>
