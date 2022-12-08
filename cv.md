@@ -1,10 +1,10 @@
 # Dmitry Strok / CV for RSSchool
 
-##Hi, my name is Dmitry Strok and I'm a front-end developer.
+## Hi, my name is Dmitry Strok and I'm a front-end developer.
 
 ![My photo](./assets/newPhoto.png)
 
- ### Contacts 
+### Contacts 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-strok-3220a0181/)
 - Mail: dm.strok98@gmail.com
 - [Github](https://github.com/all1son4)
