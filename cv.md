@@ -2,7 +2,7 @@
 
 ## Hi, my name is Dmitry Strok and I'm a front-end developer.
 
-![My photo](./assets/newPhoto.png)
+![My photo](images/pictures/newPhoto.png)
 
 ### Contacts 
 - [LinkedIn](https://www.linkedin.com/in/dmitry-strok-3220a0181/)
