@@ -136,6 +136,10 @@ body {
   transition: .4s;
 }
 
+.github-box-icon {
+  margin: 0 6px 0 0;
+}
+
 .header {
   position: relative;
   z-index: 0;
